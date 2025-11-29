@@ -110,7 +110,7 @@ const Homepage = () => {
     <div style={{ 
       minHeight: '100vh',
       padding: '40px 20px',
-      background: 'linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #ec4899 100%)',
+      background: 'linear-gradient(135deg, #6366f1 0%, #1dbacc 50%, #48ec5b 100%)',
       backdropFilter: "blur(10px)"
     }}>
       <Container size="lg">
